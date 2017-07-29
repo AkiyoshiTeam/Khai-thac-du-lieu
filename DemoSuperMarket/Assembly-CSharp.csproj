@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\CartItemClick.cs" />
      <Compile Include="Assets\Scripts\ChangeCamClick.cs" />
      <Compile Include="Assets\Scripts\Class.cs" />
+     <Compile Include="Assets\Scripts\Connect.cs" />
      <Compile Include="Assets\Scripts\CreateNewKe.cs" />
      <Compile Include="Assets\Scripts\CreateObjOnMap.cs" />
      <Compile Include="Assets\Scripts\Drag.cs" />

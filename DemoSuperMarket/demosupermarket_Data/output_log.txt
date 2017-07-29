@@ -23,16 +23,61 @@ Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Manage
 Loading G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Configuration.dll into Unity Child Domain
 Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Data.dll (this message is harmless)
 Loading G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Data.dll into Unity Child Domain
-- Completed reload, in  0.037 seconds
+- Completed reload, in  0.035 seconds
 Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.243492 ms
+UnloadTime: 1.753780 ms
 Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Transactions.dll (this message is harmless)
 Platform assembly: G:\Unity Training\DemoSuperMarket\demosupermarket_Data\Managed\System.Xml.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1bb4 -> priority: 1 
-  Thread -> id: 7ac -> priority: 1 
+  Thread -> id: 3054 -> priority: 1 
+  Thread -> id: 2be4 -> priority: 1 
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://staging-mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://staging-mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://staging-mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :http://localhost:1337/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.76.153.37:9999}
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
